@@ -9,4 +9,4 @@
    - **'domestic'** = whether its caused by domestic animal or not (number of domestic species cases)
    - **'wild'** = whether its caused by wild animal or not (number of wild species cases)
    - **all the columns of each 'Species of animals'**
-4. Cleaned csv file is uploaded as ['clean_outbreak.csv'](../clean_outbreak.csv)
+4. Cleaned csv file is uploaded as ['clean_outbreak.csv'](/clean_outbreak.csv)
