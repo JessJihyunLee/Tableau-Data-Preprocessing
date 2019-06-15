@@ -1,6 +1,6 @@
 # Animal Disease Outbreak
 
-1. Original data is [Kaggle 'Empress Global Animal Disease Surveillance' data](https://www.kaggle.com/tentotheminus9/empres-global-animal-disease-surveillance)
+1. Original data is [Kaggle 'EMPRES Global Animal Disease Surveillance' data](https://www.kaggle.com/tentotheminus9/empres-global-animal-disease-surveillance)
 2. Created following extra columns:
    - **'Late Report/Observation'** = day difference between 'observationDate' and 'reportingDate'
    - **'Mortaliy'** = ratio of 'sumCases' led to 'sumDeaths' (unit: %)
